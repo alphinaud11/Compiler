@@ -1,4 +1,4 @@
-# Compiler
+# Compilera
 An implementation of multiple concepts and techniques related to the theory of computation and compilers like DFA, NFA, Regular Expressions, Fallback DFA, CFG Left-Recursion Elimination, First and Follow, LL(1) Parsing, Lexical Analysis, and SDD.
 
 ## Note
